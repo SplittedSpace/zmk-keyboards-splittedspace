@@ -25,7 +25,6 @@ if USB
 		default y
 endif # USB
 
-
 if BOARD_HALLIE_LEFT
 	config ZMK_KEYBOARD_NAME
 		default "Hallie"
