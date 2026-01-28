@@ -1,5 +1,9 @@
-board:
-  name: hallie
-  vendor: splitted.space
-  socs:
-    - name: nrf52840
+boards:
+  - name: hallie_left
+    vendor: splitted.space
+    socs:
+      - name: nrf52840
+  - name: hallie_right
+    vendor: splitted.space
+    socs:
+      - name: nrf52840
